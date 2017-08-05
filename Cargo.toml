@@ -1,0 +1,8 @@
+[package]
+name = "tetris"
+version = "0.1.0"
+authors = ["Jason Perrin <jvperrin@ocf.berkeley.edu>"]
+
+[dependencies]
+rand = "0.3.0"
+ncurses = "5.86.0"
